@@ -1,0 +1,27 @@
+{
+  "name": "test-react",
+  "version": "0.0.1",
+  "description": "This is totally just a test, don't use it.",
+  "main": "test.js",
+  "dependencies": {
+    "react": "^0.11.2",
+    "react-modal": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/claydiffrient/react-test.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Clay Diffrient",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claydiffrient/react-test/issues"
+  },
+  "homepage": "https://github.com/claydiffrient/react-test"
+}
